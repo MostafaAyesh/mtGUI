@@ -1,6 +1,6 @@
 /*
- * A Multi-Threaded Graphics Library for STM32F429 DISCO
- * based on mbedOS.
+ * A Real-time Multi-Threaded Graphics Library
+ * for STM32F429 DISCO based on mbedOS.
  * author: Mostafa Ayesh
  * email: mostafaayesh@outlook.com
 */
